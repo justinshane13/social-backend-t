@@ -4,6 +4,7 @@ const {
     createPost,
     getAllPosts,
     getSinglePost,
+    getGroupOfPosts,
     deletePost
 } = require('../controllers/postController')
 
