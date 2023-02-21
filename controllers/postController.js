@@ -4,12 +4,12 @@ const mongoose = require('mongoose')
 // create array of categories to be used in route checking
 const categories = [
     "general",
-    "career",
-    "culture",
-    "news",
-    "politics",
-    "social",
-    "sports"
+    "strength",
+    "endurance",
+    "bodybuilding",
+    "athletics",
+    "running",
+    "hiit"
 ]
 
 // get all posts
